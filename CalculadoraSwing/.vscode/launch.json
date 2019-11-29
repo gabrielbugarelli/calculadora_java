@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculos",
+            "request": "launch",
+            "mainClass": "calculadoraswing.Calculos",
+            "projectName": "CalculadoraSwing"
+        }
+    ]
+}
